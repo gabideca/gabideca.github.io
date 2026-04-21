@@ -1,6 +1,6 @@
 ---
 title: "Second Patch in the Linux Kernel: Using 'guard' Instead of Manual lock+unlock"
-date: 2026-04-21 15:18:11 -0300
+date: 2026-04-15 23:55:01 -0300
 categories: [Kernel, Patches]
 tags: [kernel, linux, amdgpu, drm, patch, contribution]
 ---
