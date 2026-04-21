@@ -39,7 +39,7 @@ And it is at this point that I would like not only to introduce but to deeply th
 I pitched him the idea and he started looking into it. In one week, he setup his own PC to be able to run two separate instances of qemu and made it so that I could follow the tutorials
 you will be able to find in here as if I were in my own PC.
 
-I invite you to check his personal blog and specific post regarding this process, in which he describes exactly how he managed to pull this off: https://andre-jun.github.io/posts/tutorial-1-qemu-libvirt-setup/
+I invite you to check his personal blog and specific post regarding this process, in which he describes exactly how he managed to pull this off: [Post](https://andre-jun.github.io/posts/tutorial-1-qemu-libvirt-setup/)
 
 ## Final Product
 At last, a genuine, mint-based, pristine Linux terminal all for me.
