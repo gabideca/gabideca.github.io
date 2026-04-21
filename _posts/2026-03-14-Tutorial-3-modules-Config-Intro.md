@@ -1,6 +1,6 @@
 ---
 title: "Tutorial 3 - Introduction to Linux kernel build configuration and modules"
-date: 2025-03-14 18:43:18 -0300
+date: 2026-03-14 18:43:18 -0300
 categories: [Kernel, Tutoriais]
 tags: [linux, arm64, kbuild, kconfig, módulos, kernel]
 ---
