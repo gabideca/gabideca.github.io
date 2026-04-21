@@ -1,7 +1,7 @@
 ---
 title: "Tutorial 4 - Character Device Drivers Intro"
-date: 2026-03-20 17:47:09 -0300
-categories: [Kernel, Tutoriais]
+date: 2026-03-18 22:22:11 -0300
+categories: [Kernel, Tutorials]
 tags: [linux, kernel, drivers, char-device, file-operations]
 ---
 
