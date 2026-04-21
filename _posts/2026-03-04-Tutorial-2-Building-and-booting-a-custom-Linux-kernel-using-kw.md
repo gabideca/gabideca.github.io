@@ -1,7 +1,7 @@
 ---
 title: "Tutorial 2 - Building and booting a custom Linux kernel for ARM using kw"
-date: 2026-03-07 19:12:03 -0300
-categories: [Kernel, Tutoriais]
+date: 2026-03-04 20:32:03 -0300
+categories: [Kernel, Tutorials]
 tags: [linux, arm64, kw, kworkflow, kernel, cross-compile]
 ---
 
