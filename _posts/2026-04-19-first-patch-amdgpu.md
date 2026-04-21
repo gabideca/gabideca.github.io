@@ -1,8 +1,8 @@
 ---
 title: "First Patch to the Linux kernel: Deduplicating code in the amdgpu driver"
-date: 2026-04-19 12:12:45 -0300
+date: 2026-04-15 12:45:00 -0300
 categories: [Kernel, Patches]
-tags: [kernel, linux, amdgpu, drm, patch, contribuição]
+tags: [kernel, linux, amdgpu, drm, patch, contribution]
 ---
 
 Ladies and gentlemen, welcome to the main course. Everything you've read so far was merely an appetizer for whats about to come.
