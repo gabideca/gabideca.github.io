@@ -5,7 +5,7 @@ categories: [Kernel, Tutorials]
 tags: [linux, kernel, iio, drivers, dummy, sensors]
 ---
 
-Moving on to  6th tutorial, straight to it: IIO.
+Moving on to the 6th tutorial, straight to it: IIO.
 
 At last, it is time we delve deep into the subsystem itself.
 
